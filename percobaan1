@@ -1,1 +1,21 @@
-
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta names="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>tak bukak pler e bsar sbelah:)</title>
+  </head>
+<h2>LIST NAME ORTU KLENN</h2>
+<ul>
+  <li>Ammar : Anto</li>
+  <li>ilham : Anto 2</li>
+  <li>Beben : Een</li>
+  <li>Andra : Kidir swt</li>
+  <li>Mursal : Yesi</li>
+  <li>Ahlan : Tungkol</li>
+  <li>Haikal : editor</li>
+</ul>
+<a href="http://localhost:8158/percobaan2.html">
+  <button>cube tekan ini njg</button>
+</html>
